@@ -1,0 +1,9 @@
+corpus -> tokenize
+
+wikipedia_corpus provided.
+
+data from : https://huggingface.co/datasets/yeegnauh/bert_wikipedia/tree/main
+download files: "\\to0.txt", "\\to1.txt", "\\to2.txt", "\\to3.txt", "\\to4.txt", "\\to6.txt", "\\to7.txt", "\\to9.txt", 
+         "\\to10.txt", "\\to11.txt", "\\to12.txt", "\\to13.txt", "\\to14.txt", "\\to15.txt"
+then run data_to_one corpus to get wikipedia_corpus.txt
+
